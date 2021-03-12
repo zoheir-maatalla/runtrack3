@@ -1,0 +1,15 @@
+* {
+  background-color: bisque;
+  text-align: center;
+}
+
+#button {
+  padding: 10px;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
